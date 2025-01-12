@@ -91,7 +91,6 @@ const init = function (){
     recipeView.addHandlerBookMark(controlAddBookMark)
     addRecipeView.addHandlerUploadRecipe(controlAddRecipe)
     console.log(`Welcome`)
-
 }
 
 init()
