@@ -81,7 +81,7 @@ const controlAddRecipe = async function(handler) {
         addRecipeView.renderErrorMessage(err.message)
     }
 }
-
+alert(`Hello`)
 const init = function (){
     recipeView.addHandlerRecipe(controlRecipe)
     searchView.addHandlerSearch(controlSearchRecipe)
