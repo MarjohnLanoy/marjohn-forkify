@@ -90,7 +90,8 @@ const init = function (){
     resultView.addHandlerUpdateResult(controlUpdateResult)
     recipeView.addHandlerBookMark(controlAddBookMark)
     addRecipeView.addHandlerUploadRecipe(controlAddRecipe)
-    console.log(`Welcome`)
+    console.log(`Hello`)
+
 }
 
 init()
