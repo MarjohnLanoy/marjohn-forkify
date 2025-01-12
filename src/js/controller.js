@@ -92,6 +92,9 @@ const init = function (){
     addRecipeView.addHandlerUploadRecipe(controlAddRecipe)
     console.log(`Welcome`)
 }
+function(){
+    
+}
 
 init()
 
